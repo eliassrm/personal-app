@@ -1,0 +1,6 @@
+.env
+reddit_saves/
+__pycache__/
+*.pyc
+.venv/
+venv/
